@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HamburgueriaZ</string>
+    <string name="addValue">+</string>
+    <string name="baconCheckbox">Bacon</string>
+    <string name="cheeseCheckbox">queijo</string>
+    <string name="amountText">Quantidade</string>
+    <string name="titleAppText">Faça seu pedido!</string>
+    <string name="textHint">Nome</string>
+    <string name="orderButton">Fazer pedido</string>
+    <string name="onionRingCheckBox">Onions rings</string>
+    <string name="reduceValue">-</string>
+    <string name="detailsTitle">Resumo do pedido</string>
+    <string name="amountValue">0</string>
+    <string name="bannerImage">banner_da_hamburgueria</string>
+</resources>
